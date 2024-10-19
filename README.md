@@ -11,4 +11,3 @@ Detecting anomalies in credit card transactions by comparing classical machine l
 This project aims to develop and compare classical and quantum-based anomaly detection models to identify fraudulent transactions in credit card datasets. By leveraging models such as Isolation Forest and Quantum Support Vector Classifiers (QSVC) using Qiskit, the project evaluates the effectiveness of quantum algorithms in detecting financial anomalies. The ultimate goal is to enhance fraud detection systems by improving the precision and efficiency of anomaly identification in large-scale financial datasets.”
 
 ## References:
-nil
