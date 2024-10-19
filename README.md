@@ -1,10 +1,11 @@
-## College Name - Team Name
-Provide details of team members 
+## College Name - Qbites
+Ayush Gupta
 
-## Problem Statement
-Provide description of which Theme and Problem statement you are attempting
 
-## Instructions on running your project
-Provide detailed steps to get your project up and running, including any dependencies
+## Problem Statement -
+
+
+## Instructions on running your project:
+
 
 ## References
